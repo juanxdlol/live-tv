@@ -1,0 +1,33 @@
+li{ list-style: none;
+    padding: 30px;
+    display: inline-block;
+    font-size: 25px;
+    color: red;
+    border: 1px solid black;
+   
+    background: white;
+
+}
+
+nav { border: 1px solid black ;
+   background: silver;
+}
+h1{ font-size: 50px;
+    
+    
+}
+
+.parrafos{ border: 1px solid black;
+    background: white
+
+}
+
+details{ font-size: 17px;
+    padding: 10px;
+    color: red;
+    border: 1px solid black;
+    background: silver;
+    cursor: pointer;
+}
+html{background: silver;
+}
