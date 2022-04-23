@@ -1,0 +1,31 @@
+
+h1{ color: red;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    height: 80px;
+    font-size: 70px;
+    border-radius: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: #f3f6f4;
+    justify-content: center;
+}
+
+.margin{
+margin: 3px;
+padding: 0;
+text-align: center;
+}
+
+button{
+border: red solid 3px;
+width: 120px;
+height: 30px;
+color: black;
+background-color: red;
+font-size: 20px;
+}
+
+
+
