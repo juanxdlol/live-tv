@@ -1,33 +1,99 @@
-li{ list-style: none;
-    padding: 30px;
-    display: inline-block;
-    font-size: 25px;
-    color: red;
+html{ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+h1{ color: red;
+    background-color: white;
     border: 1px solid black;
-   
-    background: white;
+    display: flex;
+    height: 80px;
+    font-size: 70px;
+    border-radius: 20px;
+    padding: 0;
+    margin: 0;
+    background-color: #f3f6f4;
+    justify-content: center;
+}
+
+.center{ 
+text-align: center;
+}
+
+h2{
+font-size: 50px;
+}
+
+.p1{
+font-size: 30px;
+}
+
+.ap1{
+text-decoration: none;
+}
+
+#boton-1{
+border: red solid 2px;
+text-align: center;
+height: 50px;
+width: 200px;
+margin: 20px;
+font-size: 20px;
+display: inline-block;
+text-align: center;
+border-radius: 15px;
+}
+
+.section-1{
+text-align: center;
+}
+
+#boton-1:hover{
+background-color: red;
+}
+
+#p-canales{
+border: #5b5b5b solid 2px;
+width: 270px;
+height: 50px;
+display: flex;
+justify-content: center;
+font-size: 30px;
+background-color: #fcffff;
+}
+
+#canalfont{
+border: #5b5b5b solid 2px;
+width: 230px;
+text-align: left;
+height: 200px;
+justify-content: center;
+}
+
+img{
+justify-content: center;
+}
+
+#margen{ margin: 0px;
+    padding: 0px;
 
 }
 
-nav { border: 1px solid black ;
-   background: silver;
-}
-h1{ font-size: 50px;
-    
-    
+#p-canales, #canalfont{
+margin: 0;
 }
 
-.parrafos{ border: 1px solid black;
-    background: white
-
+#botonxd{
+border: red solid 2px;
+width: 274px;
+height: 55px;
+font-size: 25px;
+background-color: red;
 }
 
-details{ font-size: 17px;
-    padding: 10px;
-    color: red;
-    border: 1px solid black;
-    background: silver;
-    cursor: pointer;
-}
-html{background: silver;
+
+#sumpul{
+display: flex;
+margin: 20px;
+padding: 7px;
 }
